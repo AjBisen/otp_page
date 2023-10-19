@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">otp_page</string>
+    <string name="username">user name</string>
+    <string name="password">password</string>
+</resources>
